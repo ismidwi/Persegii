@@ -6,7 +6,7 @@ public class Main {
             this.operand2 = operand2;
         }
 
-        public double add() {
+        public double add123() {
             return operand1 + operand2;
         }
 
